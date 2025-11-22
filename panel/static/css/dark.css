@@ -1,1 +1,7 @@
-
+body { font-family: Arial, sans-serif; background:#0e0f11; color:#e6eef8; margin:0; padding:0; }
+.container { padding:20px; max-width:900px; margin:20px auto; background:#121314; border-radius:6px; box-shadow:0 2px 6px rgba(0,0,0,0.5); }
+.nav { background:#0b6b88; color:white; padding:10px; }
+.nav a { color:white; margin-right:8px; text-decoration:none; }
+.table { width:100%; border-collapse: collapse; }
+.table th, .table td { border:1px solid #222; padding:6px; }
+.error { color:#ff6b6b; }

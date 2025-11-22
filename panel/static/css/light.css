@@ -1,0 +1,7 @@
+body { font-family: Arial, sans-serif; background:#f7f7f9; color:#222; margin:0; padding:0; }
+.container { padding:20px; max-width:900px; margin:20px auto; background:white; border-radius:6px; box-shadow:0 2px 6px rgba(0,0,0,0.06); }
+.nav { background:#1e73be; color:white; padding:10px; }
+.nav a { color:white; margin-right:8px; text-decoration:none; }
+.table { width:100%; border-collapse: collapse; }
+.table th, .table td { border:1px solid #ddd; padding:6px; }
+.error { color:red; }
