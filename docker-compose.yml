@@ -1,0 +1,9 @@
+version: "3.8"
+services:
+  panel:
+    build: ./panel
+    ports:
+      - "8080:80"
+    volumes:
+      - ./panel:/var/www/html
+    restart: unless-stopped
